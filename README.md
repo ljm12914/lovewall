@@ -6,6 +6,9 @@
 <img src="https://img.shields.io/github/stars/soxft/lovewall.svg" alt="GitHub stars"></a>
 <a href="https://github.com/soxft/lovewall/network/members"> 
 <img src="https://img.shields.io/github/forks/soxft/lovewall.svg" alt="GitHub forks"></a> 
+
+LJM12914打算修改一下这东西。
+
 ## 简介
   一款极简表白墙
 ## 安装方法
